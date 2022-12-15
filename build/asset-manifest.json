@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0438d841.chunk.css",
+    "main.js": "/static/js/main.d098afac.chunk.js",
+    "main.js.map": "/static/js/main.d098afac.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0d0c55ff.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0d0c55ff.js.map",
+    "static/css/2.cc2dd91f.chunk.css": "/static/css/2.cc2dd91f.chunk.css",
+    "static/js/2.40dc6257.chunk.js": "/static/js/2.40dc6257.chunk.js",
+    "static/js/2.40dc6257.chunk.js.map": "/static/js/2.40dc6257.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.cc2dd91f.chunk.css.map": "/static/css/2.cc2dd91f.chunk.css.map",
+    "static/css/main.0438d841.chunk.css.map": "/static/css/main.0438d841.chunk.css.map",
+    "static/js/2.40dc6257.chunk.js.LICENSE.txt": "/static/js/2.40dc6257.chunk.js.LICENSE.txt",
+    "static/media/Group62663.59adb1fb.png": "/static/media/Group62663.59adb1fb.png",
+    "static/media/Group62712.e23e2b34.png": "/static/media/Group62712.e23e2b34.png",
+    "static/media/Group62713.3c7a5c0c.png": "/static/media/Group62713.3c7a5c0c.png",
+    "static/media/Group_62709.4d6019f1.png": "/static/media/Group_62709.4d6019f1.png",
+    "static/media/MaskGroup264.c519dde8.png": "/static/media/MaskGroup264.c519dde8.png",
+    "static/media/MicrosoftTeams-image.63080be2.png": "/static/media/MicrosoftTeams-image.63080be2.png",
+    "static/media/Upi-Logo-Vector.56979c6a.png": "/static/media/Upi-Logo-Vector.56979c6a.png",
+    "static/media/User.svg": "/static/media/User.a5699bcc.svg",
+    "static/media/footerlogo.07ad5cda.png": "/static/media/footerlogo.07ad5cda.png",
+    "static/media/formBg.d90eccee.png": "/static/media/formBg.d90eccee.png",
+    "static/media/g10.4ae62e90.png": "/static/media/g10.4ae62e90.png",
+    "static/media/homeBg.3048072f.png": "/static/media/homeBg.3048072f.png",
+    "static/media/logo.6cd4d503.svg": "/static/media/logo.6cd4d503.svg",
+    "static/media/main_logo.ba926283.png": "/static/media/main_logo.ba926283.png",
+    "static/media/quotes.svg": "/static/media/quotes.a133f468.svg",
+    "static/media/worksBg.0d580c8c.png": "/static/media/worksBg.0d580c8c.png",
+    "static/media/worksBgRotate.e8896237.png": "/static/media/worksBgRotate.e8896237.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d0c55ff.js",
+    "static/css/2.cc2dd91f.chunk.css",
+    "static/js/2.40dc6257.chunk.js",
+    "static/css/main.0438d841.chunk.css",
+    "static/js/main.d098afac.chunk.js"
+  ]
+}

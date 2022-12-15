@@ -1,0 +1,25 @@
+{
+    "errors": {
+        "invalid": "Given data is invalid.",
+        "email": "Enter a valid email address.",
+        "password": "Password must contain a minimum of 7 characters included with at least 1 upper case letter, 1 number",
+        "passwordNew" : "Password must contain a minimum of 8 characters included with at least 1 character, 1 number",
+        "passwordMatch": "Password does not match.",
+        "terms": "Please accept terms and conditions.",
+        "phone": "Please enter a valid mobile number.",
+        "imagesLength":"Please select at least one image.",
+        "otp": "PLease enter a valid OTP",
+        "startEndTime": "Start time and end time can't be same",
+        "selectStartEndTime" : "Please select Opening and Closing time of the Restaurant",
+        "length_1000":"Length should not be greater than 1000 characters.",
+        "length_50":"Length should not be greater than 50 characters.",
+        "length_5000":"Length should not be greater than 5000 characters.",
+        "length_3000":"Length should not be greater than 3000 characters.",
+        "length__min_150":"Length should not be less than 150 characters.",
+        "price_less":"Price cannot be less than or equal from price.",
+        "price_greater":"Price cannot be greater than to price.",
+        "description":"Length should not be greater than 5000 characters.",
+        "description_less":"Length should not be less than 150 characters."
+        
+      }
+}

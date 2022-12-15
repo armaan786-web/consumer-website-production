@@ -1,0 +1,21 @@
+/* input.form-control, .year-input {
+    border-radius: 30px;
+} */
+
+.timeInput .react-datepicker-wrapper .react-datepicker__input-container input {
+    border-radius: 30px;
+    height: 35px;
+}
+.react-datepicker--time-only .react-datepicker__time-container {
+    width: 100%;
+
+}
+
+.css-j204z7-MuiFormControlLabel-root {
+    width: 190px;
+    margin-right: 0px !important;
+}
+
+.css-1nrlq1o-MuiFormControl-root {
+ width: 100%;
+}
